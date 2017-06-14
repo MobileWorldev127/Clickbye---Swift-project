@@ -1,0 +1,6 @@
+framework module Segment_Apptimize {
+  umbrella header "Segment-Apptimize-umbrella.h"
+
+  export *
+  module * { export * }
+}

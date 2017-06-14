@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  ClickBye
+
+  Created by Yuriy Berdnikov on 5/3/17.
+  Copyright © 2017 Maxim. All rights reserved.
+*/
+
+"1 Stop" = "1 Stop";
+"2+ Stops" = "2+ Stops";
+"Advanced Search" = "Advanced Search";
+"Africa" = "Africa";
+"All" = "All";
+"All airports" = "All airports";
+"All carriers" = "All carriers";
+"All prices include the return. Please choose your outward." = "All prices include the return. Please choose your outward.";
+"Americas" = "Americas";
+"Are you sure" = "Are you sure";
+"Asia" = "Asia";
+"CREATE YOUR ACCOUNT TO ENJOY THE SIMPLICITY" = "CREATE YOUR ACCOUNT TO ENJOY THE SIMPLICITY";
+"Cannot create base64 string" = "Cannot create base64 string";
+"Confirm password" = "Confirm password";
+"Connect" = "Connect";
+"DISCOVER NEW PLACES TO FALL IN LOVE WITH" = "DISCOVER NEW PLACES TO FALL IN LOVE WITH";
+"Depart date must be less then return date." = "Depart date must be less then return date.";
+"Direct" = "Direct";
+"Email encryption failed" = "Email encryption failed";
+"Email is not correct" = "Email is not correct";
+"Error" = "Error";
+"Europe" = "Europe";
+"FIND NEW DESTINATIONS TO LOVE WITH ONE CLICK" = "FIND NEW DESTINATIONS TO LOVE WITH ONE CLICK";
+"Filter" = "Filter";
+"First Name is not correct" = "First Name is not correct";
+"From" = "From";
+"Join us and create your Wish List to find back easily your favorite destinations!" = "Join us and create your Wish List to find back easily your favorite destinations!";
+"Just one city of" = "Just one city of";
+"Last Name is not correct" = "Last Name is not correct";
+"Later" = "Later";
+"MORE CITIES OF" = "MORE CITIES OF";
+"Maximum budget" = "Maximum budget";
+"Minimum budget" = "Minimum budget";
+"New password" = "New password";
+"Oceania" = "Oceania";
+"Password don't match" = "Password don't match";
+"Password is too short (minimum is 8 characters)." = "Password is too short (minimum is 8 characters).";
+"Passwords don't match." = "Passwords don't match.";
+"Please enter the code." = "Please enter the code.";
+"Recovery code" = "Recovery code";
+"Recovery code doesn't match the code sent to email." = "Recovery code doesn't match the code sent to email.";
+"Return date must be after depart date." = "Return date must be after depart date.";
+"SAVE YOUR DESTINATIONS, CREATE YOUR WISH LIST" = "SAVE YOUR DESTINATIONS, CREATE YOUR WISH LIST";
+"Sort" = "Sort";
+"Successfully changed user password" = "Successfully changed user password";
+"To" = "To";
+"Use at least 8 characters" = "Use at least 8 characters";
+"added" = "added";
+"available" = "available";
+"cities of" = "cities of";
+"d" = "d";
+"h" = "h";
+"m" = "m";
+"stops" = "stops";

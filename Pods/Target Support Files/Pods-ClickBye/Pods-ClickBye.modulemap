@@ -1,0 +1,6 @@
+framework module Pods_ClickBye {
+  umbrella header "Pods-ClickBye-umbrella.h"
+
+  export *
+  module * { export * }
+}

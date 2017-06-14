@@ -1,0 +1,168 @@
+PODS:
+  - Alamofire (4.4.0)
+  - AlamofireObjectMapper (4.1.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 2.0)
+  - Amplitude-iOS (3.14.1)
+  - Analytics (3.6.0)
+  - Apptimize (2.18.2)
+  - Branch (0.14.10):
+    - Branch/Core (= 0.14.10)
+    - Branch/without-IDFA (= 0.14.10)
+  - Branch/Core (0.14.10)
+  - Branch/without-IDFA (0.14.10)
+  - ChameleonFramework/Default (2.1.0)
+  - ChameleonFramework/Swift (2.1.0):
+    - ChameleonFramework/Default
+  - Crashlytics (3.8.4):
+    - Fabric (~> 1.6.3)
+  - CryptoSwift (0.6.7)
+  - DropDown (2)
+  - EZYGradientView (1.5.1)
+  - Fabric (1.6.11)
+  - FlickrKit (1.0.9)
+  - ForecastIO (4.0.0)
+  - GoogleMaps (2.2.0):
+    - GoogleMaps/Maps (= 2.2.0)
+  - GoogleMaps/Base (2.2.0)
+  - GoogleMaps/Maps (2.2.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.2.0):
+    - GoogleMaps/Base (= 2.2.0)
+  - JTMaterialSpinner (2.0.3)
+  - KCFloatingActionButton (2.1.2)
+  - KeychainAccess (3.0.1)
+  - Localize-Swift (1.7.1)
+  - M13Checkbox (3.1.3)
+  - Material (2.5.2):
+    - Material/Core (= 2.5.2)
+  - Material/Core (2.5.2)
+  - MaterialControls (1.2.2)
+  - Mixpanel (3.1.3)
+  - NHRangeSlider (0.2)
+  - ObjectMapper (2.2.5)
+  - PageMenu (1.2.9)
+  - RNCryptor (5.0.1)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - Segment-Amplitude (1.4.1):
+    - Amplitude-iOS (~> 3.8)
+    - Analytics (~> 3.2)
+  - Segment-Apptimize (0.2.2):
+    - Analytics (~> 3.0)
+    - Apptimize (>= 2.16.14)
+  - Segment-Branch (0.1.2):
+    - Analytics
+    - Branch
+  - Segment-Mixpanel (1.2.0):
+    - Analytics (~> 3.0)
+    - Mixpanel (~> 3.0)
+  - SideMenu (2.3.0)
+  - SnapKit (3.2.0)
+  - SVProgressHUD (2.1.2)
+  - SwiftyJSON (3.1.4)
+  - TPKeyboardAvoiding (1.3.1)
+  - TTRangeSlider (1.0.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.2)
+  - AlamofireObjectMapper
+  - Analytics
+  - ChameleonFramework/Swift (from `https://github.com/ViccAlexander/Chameleon.git`)
+  - Crashlytics
+  - CryptoSwift
+  - DropDown
+  - EZYGradientView (from `https://github.com/Niphery/EZYGradientView`)
+  - Fabric
+  - FlickrKit
+  - ForecastIO
+  - GoogleMaps (~> 2.1)
+  - GooglePlaces (~> 2.1)
+  - JTMaterialSpinner (~> 2.0)
+  - KCFloatingActionButton (~> 2.1.0)
+  - KeychainAccess
+  - Localize-Swift
+  - M13Checkbox
+  - Material (~> 2.0)
+  - MaterialControls (from `LocalPods/MaterialControls`)
+  - NHRangeSlider (~> 0.2)
+  - PageMenu (from `https://github.com/orazz/PageMenu.git`)
+  - RNCryptor
+  - SDWebImage (~> 3.8)
+  - Segment-Amplitude
+  - Segment-Apptimize
+  - Segment-Branch
+  - Segment-Mixpanel
+  - SideMenu
+  - SnapKit
+  - SVProgressHUD
+  - SwiftyJSON (~> 3.1)
+  - TPKeyboardAvoiding
+  - TTRangeSlider
+
+EXTERNAL SOURCES:
+  ChameleonFramework:
+    :git: https://github.com/ViccAlexander/Chameleon.git
+  EZYGradientView:
+    :git: https://github.com/Niphery/EZYGradientView
+  MaterialControls:
+    :path: LocalPods/MaterialControls
+  PageMenu:
+    :git: https://github.com/orazz/PageMenu.git
+
+CHECKOUT OPTIONS:
+  ChameleonFramework:
+    :commit: acc480fbe023c6e5fe40f68593f4a70a8c4c7ad5
+    :git: https://github.com/ViccAlexander/Chameleon.git
+  EZYGradientView:
+    :commit: e8cc7bf2fb77557af214289288ebc96776ffbf57
+    :git: https://github.com/Niphery/EZYGradientView
+  PageMenu:
+    :commit: ace3d8d095c9c165113d3ac797f317fe7faecbae
+    :git: https://github.com/orazz/PageMenu.git
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  AlamofireObjectMapper: 435adc82f5b367679bd9e71c4974a54efd0b2521
+  Amplitude-iOS: 4a3c8807b2ea5369dc11e87e23825bff01e5a922
+  Analytics: 15be3e651d22cc811f44df65698538236676437b
+  Apptimize: e336e165db065f33ef1792f88bc84a3e98becd79
+  Branch: 9c12b5f8d8fbceb9755b69905d5f11d6bae148d0
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  Crashlytics: 79e236942ca1e7fc641df1feb9a275360a78ab6a
+  CryptoSwift: 685ae257941e5447474348a2b545583e1a16b573
+  DropDown: 744784d9c9aa505100e942c16acd05430cbb2f0a
+  EZYGradientView: f13e7a9e774b906c66d617fb04a13c8853ba25b4
+  Fabric: 5911403591946b8228ab1c51d98f1d7137e863c6
+  FlickrKit: 79ffaf64a12293ba2b1aa8a2e53a4958cb113256
+  ForecastIO: d449959139efdc9a2c111a2dba691a67706bb619
+  GoogleMaps: 104c418d61ab8a05dff06ed0784c25ea9d37da45
+  GooglePlaces: bca867d5e9da15384c794b945e4226848bc6e9d9
+  JTMaterialSpinner: 3c4279fc0b72438c9e29712fd37cf616d20c613e
+  KCFloatingActionButton: 1b22ce95d44b51915280df8a8b277eae4a06c3f1
+  KeychainAccess: 017ea25e313a49eda10bb19b0bb0760fb1edfe1a
+  Localize-Swift: 6cabc1087c0e910e77bfa87c2ed3f65c80c0b2df
+  M13Checkbox: c132a7e0eb964731855eff67b883a0b21b7c0977
+  Material: 00ae261fa04dd3f3f8584d07e44ac658fa1bc6fd
+  MaterialControls: 1c6b29e78d3a13d8dd6a67ed31b6d26eb5de8f72
+  Mixpanel: 232acf98cecd94fbb58630ff8512a54ff8d99373
+  NHRangeSlider: 2ef13d34bd7d48fcdedcde71c018c093992add7d
+  ObjectMapper: fb30f71e08470d1e5a20b199fafe1246281db898
+  PageMenu: ba19ff267f7a19e444e93c20a7847b78954a7011
+  RNCryptor: 2e352a488779d1a9184ab629be22a7c5bc84acb5
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  Segment-Amplitude: 17e7c612caa7ac4426cd7c5f674bd47c3a153476
+  Segment-Apptimize: 900bebfcebe1b783a0590e56ea70dc2282ce3659
+  Segment-Branch: b8def25f902c0c5201d717ae0dfa2a61849c8f19
+  Segment-Mixpanel: a4c523dbaebecdcfed6a65ecd9c0ea8b430cd8d2
+  SideMenu: 43d092cf615cf472f105c5b9867a21beff9fc269
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  TPKeyboardAvoiding: 0d6af20e95e2850f4c621841225b59ec7d8dd852
+  TTRangeSlider: 2f2ce4a33b32bb323c6575b9f5161c4664459c58
+
+PODFILE CHECKSUM: 058955a2efb403db869e4edd2bfdf5143b6b43bd
+
+COCOAPODS: 1.2.0

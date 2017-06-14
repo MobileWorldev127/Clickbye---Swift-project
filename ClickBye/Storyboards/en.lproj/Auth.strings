@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "and"; ObjectID = "55t-4j-NHE"; */
+"55t-4j-NHE.text" = "and";
+
+/* Class = "UIButton"; normalTitle = "CONNECT WITH FACEBOOK"; ObjectID = "Bhk-KN-3Fu"; */
+"Bhk-KN-3Fu.normalTitle" = "CONNECT WITH FACEBOOK";
+
+/* Class = "UILabel"; text = "Already a Clickbyer? Log in"; ObjectID = "I7P-mT-Xb3"; */
+"I7P-mT-Xb3.text" = "Already a Clickbyer? Log in";
+
+/* Class = "UIButton"; normalTitle = "Forgot your password?"; ObjectID = "Mdn-qD-vU8"; */
+"Mdn-qD-vU8.normalTitle" = "Forgot your password?";
+
+/* Class = "UILabel"; text = "CREATE YOUR ACCOUNT TO ENJOY THE SIMPLICITY"; ObjectID = "QjP-Ji-0NM"; */
+"QjP-Ji-0NM.text" = "CREATE YOUR ACCOUNT TO ENJOY THE SIMPLICITY";
+
+/* Class = "UIButton"; normalTitle = "LOG IN"; ObjectID = "ZC3-YB-1Ss"; */
+"ZC3-YB-1Ss.normalTitle" = "LOG IN";
+
+/* Class = "UILabel"; text = "Already a Clickbyer? Log in"; ObjectID = "b6f-QH-sRv"; */
+"b6f-QH-sRv.text" = "Already a Clickbyer? Log in";
+
+/* Class = "UILabel"; text = "Not a Clickbyer yet? Sign up"; ObjectID = "eZn-l0-YO4"; */
+"eZn-l0-YO4.text" = "Not a Clickbyer yet? Sign up";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "gEp-uj-HwG"; */
+"gEp-uj-HwG.normalTitle" = "SIGN UP";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "hYG-Hu-CZg"; */
+"hYG-Hu-CZg.normalTitle" = "SIGN UP";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "lll-lb-44h"; */
+"lll-lb-44h.normalTitle" = "Skip";
+
+/* Class = "UILabel"; text = "By continuing, you agree to our"; ObjectID = "lpN-MT-mHR"; */
+"lpN-MT-mHR.text" = "By continuing, you agree to our";

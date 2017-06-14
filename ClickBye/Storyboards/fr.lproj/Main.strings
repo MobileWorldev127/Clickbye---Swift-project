@@ -1,0 +1,322 @@
+/* Class = "UILabel"; text = "Children"; ObjectID = "01i-9K-IR4"; */
+"01i-9K-IR4.text" = "Enfants";
+
+/* Class = "UILabel"; text = "DEPART"; ObjectID = "0DG-Ma-QYM"; */
+"0DG-Ma-QYM.text" = "DÉPART";
+
+/* Class = "UIButton"; normalTitle = "Economy"; ObjectID = "2Md-YI-Ggh"; */
+"2Md-YI-Ggh.normalTitle" = "Economique";
+
+/* Class = "UILabel"; text = "Only Direct"; ObjectID = "2Xt-Jk-iE6"; */
+"2Xt-Jk-iE6.text" = "Vols directs uniquement";
+
+/* Class = "UILabel"; text = "Family"; ObjectID = "3Fr-qR-dgZ"; */
+"3Fr-qR-dgZ.text" = "Famille";
+
+/* Class = "UILabel"; text = "Art"; ObjectID = "4cH-gV-EMQ"; */
+"4cH-gV-EMQ.text" = "Art";
+
+/* Class = "UILabel"; text = "Adults"; ObjectID = "5X7-hU-KQh"; */
+"5X7-hU-KQh.text" = "Adultes";
+
+/* Class = "UILabel"; text = "DEC"; ObjectID = "5xd-Wk-QeO"; */
+"5xd-Wk-QeO.text" = "DÉC";
+
+/* Class = "UILabel"; text = "Mer. 22 Avr"; ObjectID = "64N-Ip-wz0"; */
+"64N-Ip-wz0.text" = "Mer. 22 Avr";
+
+/* Class = "UILabel"; text = " Searching for the best destinations\nfor you based on your criteria.\nGet ready to be inspired!";ObjectID = "6QW-kl-D3V"; */
+"6QW-kl-D3V.text" = "Nous recherchons pour vous les meilleures destinations\nselon vos critères.\n Laissez-vous inspirer !";
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7n4-ca-ykr"; */
+"7n4-ca-ykr.normalTitle" = "Bouton";
+
+/* Class = "UILabel"; text = "BUDGET"; ObjectID = "8UA-bH-lHy"; */
+"8UA-bH-lHy.text" = "BUDGET";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "8la-e9-QSZ"; */
+"8la-e9-QSZ.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Passengers"; ObjectID = "8vQ-Bb-X2y"; */
+"8vQ-Bb-X2y.text" = "Passagers";
+
+/* Class = "UIButton"; normalTitle = "Africa"; ObjectID = "9Au-Cv-rHB"; */
+"9Au-Cv-rHB.normalTitle" = "Afrique";
+
+/* Class = "UILabel"; text = "Advanced search"; ObjectID = "9S8-UN-cfv"; */
+"9S8-UN-cfv.text" = "Recherche avancée";
+
+/* Class = "UIButton"; normalTitle = "Asia"; ObjectID = "9Wc-yO-NAN"; */
+"9Wc-yO-NAN.normalTitle" = "Asie";
+
+/* Class = "UILabel"; text = "Departure Time"; ObjectID = "A4u-2E-Ek6"; */
+"A4u-2E-Ek6.text" = "Heure de départ";
+
+/* Class = "UIButton"; normalTitle = "Premium Economy"; ObjectID = "AEx-SE-L9E"; */
+"AEx-SE-L9E.normalTitle" = "Premium économique";
+
+/* Class = "UIButton"; normalTitle = "Alphabetically"; ObjectID = "APR-NU-eKM"; */
+"APR-NU-eKM.normalTitle" = "Par ordre alphabétique";
+
+/* Class = "UILabel"; text = "Depart from a region"; ObjectID = "Bmy-bl-P9s"; */
+"Bmy-bl-P9s.text" = "Départ de plusieurs villes";
+
+/* Class = "UIButton"; normalTitle = "PROCEED"; ObjectID = "DJM-Wm-bBB"; */
+"DJM-Wm-bBB.normalTitle" = "APPLIQUER";
+
+/* Class = "UILabel"; text = "Regions"; ObjectID = "DJa-b4-i7u"; */
+"DJa-b4-i7u.text" = "Continents";
+
+/* Class = "UILabel"; text = "We've sent a recovery code on your email"; ObjectID = "DPR-e9-dFk"; */
+"DPR-e9-dFk.text" = "Nous vous avons envoyé un code de récupération par email";
+
+/* Class = "UIButton"; normalTitle = "INSPIRE ME"; ObjectID = "DPg-0k-OAB"; */
+"DPg-0k-OAB.normalTitle" = "INSPIREZ-MOI";
+
+/* Class = "UILabel"; text = "30"; ObjectID = "EQ3-BZ-EKh"; */
+"EQ3-BZ-EKh.text" = "30";
+
+/* Class = "UIButton"; normalTitle = "Business"; ObjectID = "FWl-Eg-sej"; */
+"FWl-Eg-sej.normalTitle" = "Business";
+
+/* Class = "UILabel"; text = "12hr 05m, Direct"; ObjectID = "GTf-27-jLa"; */
+"GTf-27-jLa.text" = "12hr 05m, Direct";
+
+/* Class = "UILabel"; text = "20h35"; ObjectID = "Gcg-B5-A9k"; */
+"Gcg-B5-A9k.text" = "20h35";
+
+/* Class = "UILabel"; text = "Searching for the best destinations\nfor you based on your criteria.\nGet ready to be inspired!"; ObjectID = "H2z-Gi-tta"; */
+"H2z-Gi-tta.text" = "Nous recherchons pour vous les meilleures destinations\nselon vos critères.\n Laissez-vous inspirer !";
+
+/* Class = "UILabel"; text = "From Los Angeles"; ObjectID = "HQk-9c-Ezr"; */
+"HQk-9c-Ezr.text" = "Depuis Los Angeles";
+
+/* Class = "UIButton"; normalTitle = "FIND NEARBY"; ObjectID = "Heb-NL-PrK"; */
+"Heb-NL-PrK.normalTitle" = "TROUVER À PROXIMITÉ";
+
+/* Class = "UILabel"; text = "DEPARTURE"; ObjectID = "ItT-0g-PFf"; */
+"ItT-0g-PFf.text" = "DÉPART";
+
+/* Class = "UILabel"; text = "Please log in or sign up for better experience"; ObjectID = "JSq-Hm-TjG"; */
+"JSq-Hm-TjG.text" = "Veuillez-vous connecter pour une meilleure expérience";
+
+/* Class = "UILabel"; text = "Party"; ObjectID = "L0P-w2-1cQ"; */
+"L0P-w2-1cQ.text" = "Fiesta";
+
+/* Class = "UITextField"; text = "200"; ObjectID = "MGj-Mo-DAT"; */
+"MGj-Mo-DAT.text" = "200";
+
+/* Class = "UIButton"; normalTitle = "CHANGE PASSWORD"; ObjectID = "NW1-6Z-DoX"; */
+"NW1-6Z-DoX.normalTitle" = "CHANGER LE MOT DE PASSE";
+
+/* Class = "UILabel"; text = "Stops"; ObjectID = "NrK-9z-sGp"; */
+"NrK-9z-sGp.text" = "Escales";
+
+/* Class = "UILabel"; text = "07h30"; ObjectID = "OXC-qc-heT"; */
+"OXC-qc-heT.text" = "07h30";
+
+/* Class = "UILabel"; text = "Sort by"; ObjectID = "OcN-ky-JGQ"; */
+"OcN-ky-JGQ.text" = "Trier par";
+
+/* Class = "UIButton"; normalTitle = "BOOK YOUR FLIGHT"; ObjectID = "Pv3-3y-98X"; */
+"Pv3-3y-98X.normalTitle" = "VOIR LE VOL";
+
+/* Class = "UILabel"; text = "23"; ObjectID = "PxW-ft-WHv"; */
+"PxW-ft-WHv.text" = "23";
+
+/* Class = "UILabel"; text = "LHR"; ObjectID = "R15-Uq-SBr"; */
+"R15-Uq-SBr.text" = "LHR";
+
+/* Class = "UILabel"; text = "HBE"; ObjectID = "Skr-nV-TWD"; */
+"Skr-nV-TWD.text" = "HBE";
+
+/* Class = "UIButton"; normalTitle = "BYE"; ObjectID = "TLX-Op-jZt"; */
+"TLX-Op-jZt.normalTitle" = "BYE";
+
+/* Class = "UILabel"; text = "FRI"; ObjectID = "UkZ-zl-EY9"; */
+"UkZ-zl-EY9.text" = "FRI";
+
+/* Class = "UIButton"; normalTitle = "BYE"; ObjectID = "VHF-NW-NWz"; */
+"VHF-NW-NWz.normalTitle" = "BYE";
+
+/* Class = "UIButton"; normalTitle = "Europe"; ObjectID = "Vgz-ej-2wc"; */
+"Vgz-ej-2wc.normalTitle" = "Europe";
+
+/* Class = "UIButton"; selectedTitle = "Europe"; ObjectID = "Vgz-ej-2wc"; */
+"Vgz-ej-2wc.selectedTitle" = "Europe";
+
+/* Class = "UILabel"; text = "DEC"; ObjectID = "Wc5-3q-Hmf"; */
+"Wc5-3q-Hmf.text" = "DEC";
+
+/* Class = "UILabel"; text = "Turkish Airlines"; ObjectID = "WhO-T5-XkY"; */
+"WhO-T5-XkY.text" = "Turkish Airlines";
+
+/* Class = "UIButton"; normalTitle = "  1 stop"; ObjectID = "XG2-Y5-REJ"; */
+"XG2-Y5-REJ.normalTitle" = "  1 escale";
+
+/* Class = "UILabel"; text = "Arrival Time"; ObjectID = "XJx-9z-SdL"; */
+"XJx-9z-SdL.text" = "Heure d’arrivée";
+
+/* Class = "UILabel"; text = "Wishes"; ObjectID = "YZg-v2-mvt"; */
+"YZg-v2-mvt.text" = "Envies";
+
+/* Class = "UILabel"; text = "в‚¬"; ObjectID = "YeO-kT-NQa"; */
+"YeO-kT-NQa.text" = "€";
+
+/* Class = "UILabel"; text = "Departure Airport"; ObjectID = "Yzi-UJ-Km2"; */
+"Yzi-UJ-Km2.text" = "Aéroport de départ";
+
+/* Class = "UILabel"; text = "Sports"; ObjectID = "ZI0-zw-Vzf"; */
+"ZI0-zw-Vzf.text" = "Sport";
+
+/* Class = "UILabel"; text = "Beach"; ObjectID = "Zsu-Es-E9Y"; */
+"Zsu-Es-E9Y.text" = "Plage";
+
+/* Class = "UILabel"; text = "ARRIVAL"; ObjectID = "aAj-Jt-cbd"; */
+"aAj-Jt-cbd.text" = "ARRIVÉE";
+
+/* Class = "UIButton"; normalTitle = "FIND NEARBY"; ObjectID = "ahk-Os-h6S"; */
+"ahk-Os-h6S.normalTitle" = "TROUVER À PROXIMITÉ";
+
+/* Class = "UILabel"; text = "DEPARTURE"; ObjectID = "anl-J6-pfY"; */
+"anl-J6-pfY.text" = "DÉPART";
+
+/* Class = "UIButton"; normalTitle = "Flight duration"; ObjectID = "bQx-7X-ddA"; */
+"bQx-7X-ddA.normalTitle" = "Durée de vol";
+
+/* Class = "UIButton"; normalTitle = "Americas"; ObjectID = "c8J-9W-3kr"; */
+"c8J-9W-3kr.normalTitle" = "Amérique";
+
+/* Class = "UIButton"; selectedTitle = "Americas"; ObjectID = "c8J-9W-3kr"; */
+"c8J-9W-3kr.selectedTitle" = " Amérique ";
+
+/* Class = "UIButton"; normalTitle = "All"; ObjectID = "cST-8V-nlZ"; */
+"cST-8V-nlZ.normalTitle" = "Tous";
+
+/* Class = "UIButton"; selectedTitle = "All"; ObjectID = "cST-8V-nlZ"; */
+"cST-8V-nlZ.selectedTitle" = "Tous";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cje-hs-HIt"; */
+"cje-hs-HIt.normalTitle" = "Bouton";
+
+/* Class = "UILabel"; text = "Filters"; ObjectID = "crT-oM-Mq3"; */
+"crT-oM-Mq3.text" = "Filtres";
+
+/* Class = "UILabel"; text = "16h20"; ObjectID = "d5e-5n-I9t"; */
+"d5e-5n-I9t.text" = "16h20";
+
+/* Class = "UILabel"; text = "Infants"; ObjectID = "dSq-Ld-lPK"; */
+"dSq-Ld-lPK.text" = "Bébés";
+
+/* Class = "UILabel"; text = "Airline Carriers"; ObjectID = "dcx-vb-e43"; */
+"dcx-vb-e43.text" = "Compagnies aériennes";
+
+/* Class = "UITextField"; placeholder = " Where are you now?"; ObjectID = "dzB-5Z-AEL"; */
+"dzB-5Z-AEL.placeholder" = "D’où souhaitez-vous partir?";
+
+/* Class = "UIButton"; normalTitle = "  Direct"; ObjectID = "e2p-58-zd3"; */
+"e2p-58-zd3.normalTitle" = "  Direct";
+
+/* Class = "UILabel"; text = "All prices include the return. Please choose your outward."; ObjectID = "eA8-cM-rxq"; */
+"eA8-cM-rxq.text" = "Tous les prix incluent le retour. Veuillez choisir votre aller.";
+
+/* Class = "UILabel"; text = "451 в‚¬"; ObjectID = "eCP-Ns-Lup"; */
+"eCP-Ns-Lup.text" = "451 €";
+
+/* Class = "UILabel"; text = "ARRIVAL"; ObjectID = "fDU-MF-cU7"; */
+"fDU-MF-cU7.text" = "ARRIVÉE";
+
+/* Class = "UIButton"; normalTitle = "Oceania"; ObjectID = "fGt-az-QqH"; */
+"fGt-az-QqH.normalTitle" = "Océanie";
+
+/* Class = "UIButton"; selectedTitle = "Oceania"; ObjectID = "fGt-az-QqH"; */
+"fGt-az-QqH.selectedTitle" = "Océanie";
+
+/* Class = "UILabel"; text = "09hr 55m, 1 Stop"; ObjectID = "fRZ-HL-e9z"; */
+"fRZ-HL-e9z.text" = "09hr 55m, 1 escale";
+
+/* Class = "UIButton"; normalTitle = "Arrival time"; ObjectID = "fiG-Fp-mEq"; */
+"fiG-Fp-mEq.normalTitle" = "Heure d’arrivée";
+
+/* Class = "UILabel"; text = "FRI"; ObjectID = "gQt-uj-l9v"; */
+"gQt-uj-l9v.text" = "FRI";
+
+/* Class = "UIButton"; normalTitle = "  2+ stops"; ObjectID = "i4p-Jd-977"; */
+"i4p-Jd-977.normalTitle" = "  2 escales et plus";
+
+/* Class = "UILabel"; text = "Mer. 22 Avr"; ObjectID = "i7f-8y-7lo"; */
+"i7f-8y-7lo.text" = "Mer. 22 Avr";
+
+/* Class = "UIButton"; normalTitle = "Departure time"; ObjectID = "iZu-3c-AIg"; */
+"iZu-3c-AIg.normalTitle" = "Heure de départ";
+
+/* Class = "UILabel"; text = "Turkish Airlines"; ObjectID = "jir-MB-0Pd"; */
+"jir-MB-0Pd.text" = "Turkish Airlines";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "ktP-cN-Wyk"; */
+"ktP-cN-Wyk.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "RETURN"; ObjectID = "ktQ-mW-XOC"; */
+"ktQ-mW-XOC.text" = "RETOUR";
+
+/* Class = "UILabel"; text = "HBE"; ObjectID = "mEF-Re-ODh"; */
+"mEF-Re-ODh.text" = "HBE";
+
+/* Class = "UIButton"; normalTitle = "Lowest price"; ObjectID = "meA-Vc-InL"; */
+"meA-Vc-InL.normalTitle" = "Prix croissant";
+
+/* Class = "UILabel"; text = "Flight Duration"; ObjectID = "n09-Mc-Uh9"; */
+"n09-Mc-Uh9.text" = "Durée de vol";
+
+/* Class = "UILabel"; text = "02h25"; ObjectID = "nFd-xG-V8l"; */
+"nFd-xG-V8l.text" = "02h25";
+
+/* Class = "UILabel"; text = "Searching for the best destinations\nfor you based on your criteria.\nGet ready to be inspired!"; ObjectID = "nPZ-oc-0gD"; */
+"nPZ-oc-0gD.text" = "Nous recherchons pour vous les meilleures destinations\nselon vos critères.\n Laissez-vous inspirer !";
+
+/* Class = "UILabel"; text = "Filters"; ObjectID = "o4o-BL-3cT"; */
+"o4o-BL-3cT.text" = "Filtres";
+
+/* Class = "UILabel"; text = "LHR"; ObjectID = "q4b-9h-FPE"; */
+"q4b-9h-FPE.text" = "LHR";
+
+/* Class = "UILabel"; text = "Please log in or sign up for better experience"; ObjectID = "qQE-2P-K8v"; */
+"qQE-2P-K8v.text" = "Veuillez-vous connecter pour profiter d’une meillleure expérience";
+
+/* Class = "UILabel"; text = "Cabin class"; ObjectID = "rpa-rz-Fhp"; */
+"rpa-rz-Fhp.text" = "Classe de la cabine";
+
+/* Class = "UILabel"; text = "Themes"; ObjectID = "ryf-Kg-tj1"; */
+"ryf-Kg-tj1.text" = "Envies";
+
+/* Class = "UILabel"; text = "Flight cost"; ObjectID = "vK4-U4-w3N"; */
+"vK4-U4-w3N.text" = "Prix du vol";
+
+/* Class = "UIButton"; normalTitle = "First"; ObjectID = "vjr-jf-X1p"; */
+"vjr-jf-X1p.normalTitle" = "Premier";
+
+/* Class = "UIButton"; normalTitle = "APPLY"; ObjectID = "vrM-oy-btu"; */
+"vrM-oy-btu.normalTitle" = "APPLIQUER";
+
+/* Class = "UILabel"; text = "Arrival Airport"; ObjectID = "vvv-eZ-yKV"; */
+"vvv-eZ-yKV.text" = "Heure d’arrivée";
+
+/* Class = "UILabel"; text = "Mer. 22 Avr"; ObjectID = "w1R-ok-pMK"; */
+"w1R-ok-pMK.text" = "Mer. 22 Avr";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "wO3-sp-u8p"; */
+"wO3-sp-u8p.normalTitle" = "ANNULER";
+
+/* Class = "UIButton"; normalTitle = "BYE"; ObjectID = "wV4-Kh-MEh"; */
+"wV4-Kh-MEh.normalTitle" = "BYE";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "xOx-Jb-Z7N"; */
+"xOx-Jb-Z7N.normalTitle" = "CANCEL";
+
+/* Class = "UIButton"; normalTitle = " --"; ObjectID = "xwd-5s-Cic"; */
+"xwd-5s-Cic.normalTitle" = " --";
+
+/* Class = "UILabel"; text = "Mer. 22 Avr"; ObjectID = "z4S-jE-n8v"; */
+"z4S-jE-n8v.text" = "Mer. 22 Avr";
+
+/* Class = "UILabel"; text = "Stops"; ObjectID = "znU-oy-PcH"; */
+"znU-oy-PcH.text" = "Escales";

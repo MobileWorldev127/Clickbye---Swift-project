@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12118" systemVersion="16E195" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12086"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="FlyInfoCell" customModule="ClickBye" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="220"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="ftW-14-SHD">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="220"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" alpha="0.5" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="GHu-mc-kgQ">
+                    <rect key="frame" x="0.0" y="148" width="375" height="72"/>
+                    <color key="backgroundColor" red="0.0064731262810000002" green="0.0054681006690000004" blue="0.0068572598249999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="72" id="4kj-JK-yYV"/>
+                    </constraints>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Czech Republic" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="67s-g2-61Z">
+                    <rect key="frame" x="8" y="161" width="127" height="46"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="46" id="Ztf-zx-vHL"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="AvenirNext-Bold" family="Avenir Next" pointSize="17"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="1000" verticalHuggingPriority="1000" horizontalCompressionResistancePriority="1000" verticalCompressionResistancePriority="1000" text="600$" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Zph-c1-Bbc">
+                    <rect key="frame" x="329" y="168" width="38" height="32"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="32" id="sQ7-nw-m9O"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
+                    <color key="textColor" red="0.89019607840000003" green="0.78039215689999997" blue="0.1960784314" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="ftW-14-SHD" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="8Pc-Zq-b7D"/>
+                <constraint firstAttribute="bottom" secondItem="GHu-mc-kgQ" secondAttribute="bottom" id="97d-Kn-4j7"/>
+                <constraint firstItem="67s-g2-61Z" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="8" id="CdI-hp-6cJ"/>
+                <constraint firstItem="GHu-mc-kgQ" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="GTJ-Ey-2mo"/>
+                <constraint firstAttribute="bottom" secondItem="67s-g2-61Z" secondAttribute="bottom" constant="13" id="Pst-uw-HgD"/>
+                <constraint firstItem="ftW-14-SHD" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="Vi5-95-EUO"/>
+                <constraint firstAttribute="trailing" secondItem="ftW-14-SHD" secondAttribute="trailing" id="YW3-95-Q9V"/>
+                <constraint firstAttribute="bottom" secondItem="Zph-c1-Bbc" secondAttribute="bottom" constant="20" id="Zmm-Xf-gsY"/>
+                <constraint firstAttribute="trailing" secondItem="GHu-mc-kgQ" secondAttribute="trailing" id="haq-Ca-8ZY"/>
+                <constraint firstAttribute="trailing" secondItem="Zph-c1-Bbc" secondAttribute="trailing" constant="8" id="krF-KW-4bQ"/>
+                <constraint firstAttribute="bottom" secondItem="ftW-14-SHD" secondAttribute="bottom" id="mpU-91-ZMY"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="backgroundAlpha" destination="GHu-mc-kgQ" id="naS-Cb-BYF"/>
+                <outlet property="flickrImage" destination="ftW-14-SHD" id="Zba-RB-gWK"/>
+                <outlet property="placeNameLabel" destination="67s-g2-61Z" id="Vd1-sr-8bg"/>
+                <outlet property="priceLabel" destination="Zph-c1-Bbc" id="OB6-dT-oFs"/>
+            </connections>
+            <point key="canvasLocation" x="-725" y="-271"/>
+        </view>
+    </objects>
+</document>

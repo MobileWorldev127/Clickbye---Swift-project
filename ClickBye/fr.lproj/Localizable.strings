@@ -1,0 +1,71 @@
+/* 
+  Localizable.strings
+  ClickBye
+
+  Created by Yuriy Berdnikov on 5/3/17.
+  Copyright © 2017 Maxim. All rights reserved.
+*/
+
+"1 Stop" = "1 escale";
+"2+ Stops" = "2 escales et plus";
+"Advanced Search" = "Recherche avancée";
+"Africa" = "Afrique";
+"All" = "Tous";
+"All airports" = "Tous les aéroports";
+"All carriers" = "Toutes les companies aériennes";
+"All prices include the return. Please choose your outward." = "Tous les prix incluent le retour. Veuillez choisir d’abord l’aller.";
+"All prices include the outward. Please choose your return." = "Tous les prix incluent l'aller. Veuillez choisir votre retour.";
+"Americas" = "Amerique";
+"Are you sure" = "Êtes-vous sur";
+"Asia" = "Asie";
+"CREATE YOUR ACCOUNT TO ENJOY THE SIMPLICITY" = "CRÉER VOTRE COMPTE ET PROFITER DE LA SIMPLICITÉ";
+"Cannot create base64 string" = "Cannot create base64 string";
+"Confirm Password" = "Confirmer le mot de passe";
+"Confirm password" = "Veuillez confirmer le mot de passe";
+"Connect" = "Se connecter";
+"DISCOVER NEW PLACES TO FALL IN LOVE WITH" = "TROUVEZ DE NOUVELLES DESTINATIONS À AIMER";
+"Depart date must be less then return date." = "La date de départ doit être avant la date d’arrivée";
+"Direct" = "Direct";
+"Email encryption failed" = "Email encryption failed";
+"Email is not correct" = "L’email n’est pas correct";
+"Error" = "Erreur";
+"Europe" = "Europe";
+"FIND NEW DESTINATIONS TO LOVE WITH ONE CLICK" = "TROUVER DE NOUVELLES DESTINATIONS À AIMER";
+"Filter" = "Filtrer";
+"First Name" = "Prénom";
+"First Name is not correct" = "Le prénom n’est pas correct";
+"From" = "Depuis";
+"Join us and create your Wish List to find back easily your favorite destinations!" = "Rejoignez-nous et créez votre propre Wish List pour pouvoir retrouver très facilement vos destinations préférées !";
+"Just one city of" = "Juste une ville de";
+"Last Name" = "Nom";
+"Last Name is not correct" = "Le nom n’est pas correct";
+"Later" = "Later";
+"MORE CITIES OF" = "PLUS DE VILLE DE";
+"Maximum budget" = "Budget maximum";
+"Minimum budget" = "Budget minimum";
+"New password" = "Nouveau mot de passe";
+"Oceania" = "Océanie";
+"Password" = "Mots de passe";
+"Password don't match" = "Les mots de passe sont différents";
+"Password is too short (minimum is 8 characters)." = "Le mot de passe est trop court (minimum 8 lettres)";
+"Passwords don't match." = "Les mots de passe sont différents";
+"Please enter the code." = "Veuillez entrer le code";
+"Privacy Policy" = "Politique de Confidentialité";
+"Recovery code" = "Code de récupération";
+"Recovery code doesn't match the code sent to email." = "Le code de récupération ne correspond pas au code envoyé par email.";
+"Return date must be after depart date." = "La date de retour doit être après la date de départ";
+"SAVE YOUR DESTINATIONS, CREATE YOUR WISH LIST" = "CRÉER VOTRE WISH LIST POUR VIVRE VOS ENVIES";
+"Sign up here" = " Créer un compte.";
+"Sort" = "Trier";
+"Successfully changed user password" = "Mot de passe réinitialisé";
+"Terms & Conditions" = "Termes & Conditions";
+"To" = "Vers";
+"Use at least 8 characters" = "8 lettres minimum";
+"added" = "ajoutées";
+"available" = "disponible";
+"cities of" = "villes de";
+"d" = "d";
+"h" = "h";
+"here" = "Se connecter.";
+"m" = "m";
+"stops" = "escales";
